@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+h1{
+  font-family: Kanit;
+}
+
+h4{
+  font-family: Kanit;
+}
+
+li{
+  font-family: Kanit;
+}
+
+button {
+    font-family: Kanit;
+}
+
+#city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.banner {
+    color: #FFD23F;
+    font-family: Kanit;
+}
+
+body {
+    background-color: #FFD23F;
+}
